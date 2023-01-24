@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hello, folks!👋 <br><br>My name is Venkatesh...........  You can find me on Instagram, or on LinkedIn..
 
-<img src="https://swall.teahub.io/photos/small/9-92211_best-quote-for-software-engineer.jpg" hieght="300px" width="400px">
+<img src="https://swall.teahub.io/photos/small/9-92211_best-quote-for-software-engineer.jpg" hieght="900px" width="400px">
 
 
 ## 🌐 Socials:
