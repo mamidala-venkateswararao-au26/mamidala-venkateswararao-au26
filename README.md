@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hai,,,,,
-#   This is a  <h1> tag.  ##  This is a  <h2> tag. ###### This is a <h6> tag.
-Result: This is a <h1> tag.This is a  <h2> tag.This is a <h6> tag.
+Hello, folks! 👋
+
+My name is Venkatesh.........  You can find me on Instagram, or on LinkedIn.
+
+<img src="https://media.licdn.com/dms/image/C5616AQEiZfmeuDuAEw/profile-displaybackgroundimage-shrink_350_1400/0/1658771344519?e=1680134400&v=beta&t=aY5CtmejKgLcFprdOZMauHdYkEBMHkiEIdSHYTHq-YU" width="512px"/>
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/venkatesh.2325/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/venkatesh-mamidala-377a9a213/) 
