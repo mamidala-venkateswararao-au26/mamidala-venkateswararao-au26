@@ -1,4 +1,4 @@
-
+<h2 align="center" class="heading-element" dir="auto">👋 Hi, I’m Chetan</h2>
 
 <h1>
   hey there
