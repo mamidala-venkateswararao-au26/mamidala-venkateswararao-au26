@@ -4,8 +4,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-# 💫 About Me:
-Hello, folks!👋 <br><br>My name is Venkatesh...........  You can find me on Instagram, or on LinkedIn..
+
 
 <img src="https://swall.teahub.io/photos/small/9-92211_best-quote-for-software-engineer.jpg" height="150px" width="800px">
 <div align="center">
