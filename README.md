@@ -4,6 +4,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2 align="center" class="heading-element" dir="auto">👋 Hi, I’m Venkatesh</h2>
 
 
 
@@ -12,10 +13,7 @@
 
 <h2 align="center" class="heading-element" dir="auto">👋 Hi, I’m Venkatesh</h2>
 
-" DevOps Engineer | Docker | Linux | Jenkins | AWS | Git 
-| Terraform | Ansible | Kubernetes | Technical Blogger | 
- I'm Always ready for doubt solving and project collaborations and ready to 
- take new challanges.. "
+
 <div<h2 class="heading-element" dir="auto">⚡ Skills</h2> <a href="https://www.linux.org/" rel="nofollow">…</a>
  <a href="https://aws.amazon.com/" rel="nofollow">…</a>  </div>
 
